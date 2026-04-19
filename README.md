@@ -21,3 +21,4 @@ Luxury, cinematic, slow motion, high-end wedding aesthetic.
 - AI image generation tools
 - AI video generation tools (Runway / Pika / Kling)
 - Mobile video editing (CapCut)
+OG
